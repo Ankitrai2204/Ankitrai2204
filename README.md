@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋 </h1>
+<h1 align="center">Hi Everyone!👋 </h1>
 <h3 align="center"> I'm Ankit Kumar Rai, a passionate coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankitrai2204&label=Profile%20views&color=0e75b6&style=flat" alt="Ankitrai2204" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankitrai2204" alt="Ankitrai2204" /></a> </p>
+- 🔭 I’m currently working on **GSSOC 2023**
 
-- 🔭 I’m currently working on **Accident Control Measures Project**
-
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **DSA & Full Stack**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
